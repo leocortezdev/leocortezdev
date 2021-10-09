@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leocortezdev
-- 👀 I’m interested in advancing as a Web Dev
+- 👀 I’m interested in advancing as a Frontend Developer
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on all React projects
 - 📫 You can always reach out to me via email : leocortezdev@gmail.com
